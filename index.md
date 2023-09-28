@@ -38,7 +38,8 @@ For a workshop please delete the following block until the next dashed-line
 {% endcomment %}
 
 
-<div class="alert alert-danger">
+<div class="alert alert-info">
+  Link to the sign up form
 </div>
 
 {% comment %}
