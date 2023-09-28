@@ -308,7 +308,6 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 {% endcomment %}
 
 
-<hr/>
 
 
 {% comment %}
