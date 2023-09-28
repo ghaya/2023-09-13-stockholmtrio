@@ -140,7 +140,7 @@ address.
 {% if page.latitude and page.longitude and online == "false" %}
 <p id="where">
   <strong>Where:</strong>
-  {{page.address}}.
+  Karolinska Institutet Biblioteket i Solna (Berzelius väg 7B).  Room: Synapsen 1 
 </p>
 {% elsif online == "true_public" %}
 <p id="where">
