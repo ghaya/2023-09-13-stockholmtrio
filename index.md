@@ -32,19 +32,14 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 {% endcomment %}
 
 
-{% comment %}
-8< ============= For a workshop delete from here =============
-For a workshop please delete the following block until the next dashed-line
-{% endcomment %}
+
 
 
 <div class="alert alert-info">
   Link to the sign up form
 </div>
 
-{% comment %}
-8< ============================= until here ==================
-{% endcomment %}
+
 
 
 {% comment %}
@@ -264,10 +259,6 @@ Edit the text to match who can attend the workshop. For instance:
 - If you are interested in attending this workshop, contact me@example.com
   for more information
 {% endcomment %}
-<p id="who-can-attend">
-    <strong>Who can attend?:</strong>
-    This workshop is open to graduate students and researchers at KTH, Karolinska Institutet and Stockholm Univeristy.
-</p>
 
 
 <hr/>
