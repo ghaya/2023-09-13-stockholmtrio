@@ -351,7 +351,7 @@ of code below the Schedule `<h2>` header below with
 {% endcomment %}
 
 <h2 id="schedule">Schedule</h2>
-
+The material will be adapted from the Software Carpentry Workshop: <a href="https://swcarpentry.github.io/r-novice-gapminder/">R for Reproducible Scientific Analysis</a>.
 {% if site.carpentry == "swc" %}
 {% include swc/schedule.html %}
 {% elsif site.carpentry == "dc" %}
