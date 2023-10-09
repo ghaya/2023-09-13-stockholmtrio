@@ -36,7 +36,7 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 
 
 <div class="alert alert-info">
-  <h2><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=8e73v0vPMk--PaHdoEPAXVVITTv4m3lMmhoGFIp1_wVUNjRNNUpJV0gxRktDNzBQNDZCVzRQTDIxUy4u">Register for the workshop</a></h2><p>(Registration opens October 9th. Registration is limited to 27 participants.)</p>
+  <h2><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=8e73v0vPMk--PaHdoEPAXVVITTv4m3lMmhoGFIp1_wVUNjRNNUpJV0gxRktDNzBQNDZCVzRQTDIxUy4u">Register for the workshop</a></h2><p>(Registration is limited to 27 participants.)</p>
 </div>
 
 
